@@ -1,7 +1,9 @@
+import FormDemo from "./FormDemo";
+
 function App() {
   return (
     <div className="App">
-      Appccc
+      <FormDemo />
     </div>
   );
 }
